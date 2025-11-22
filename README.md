@@ -17,6 +17,7 @@ This project was created as part of the Artiset interview process for the Data S
 
 ### Customers Table
 ![Customers](customers_table.png)
+### Orders Table
 ![orders](orders_table.png)
 
 ### Orders Table with Month Column
