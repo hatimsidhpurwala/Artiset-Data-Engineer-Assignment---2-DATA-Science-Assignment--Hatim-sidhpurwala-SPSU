@@ -1,6 +1,5 @@
-# artiset-mysql-assignment-Hatim-sidhpurwala-spsu
+# Artiset-Data Engineer Assignment - 2 (DATA Science Assignment)-Hatim-sidhpurwala-SPSU
 Artiset Data Science Interview Task(Assignment) using MySQL
-# Artiset Data Science – MySQL Assignment
 
 This project was created as part of the Artiset interview process for the Data Science role.
 
@@ -14,6 +13,17 @@ This project was created as part of the Artiset interview process for the Data S
 ## Technology Used
 - MySQL
 - GitHub for submission
+## Output Screenshots
+
+### Customers Table
+![Customers](customers_table.png)
+![orders](orders_table.png)
+
+### Orders Table with Month Column
+![Orders](orders_with_month.png)
+
+### Total Spending Result
+![Spending](total_spending.png)
 
 ## How to run
 1. Copy the SQL code from `artiset_task.sql`
