@@ -26,6 +26,10 @@ This project was created as part of the Artiset interview process for the Data S
 ### Total Spending Result
 ![Spending](total_spending.png)
 
+Note:
+I have added the output CSV data files in the `outdata` folder. Kindly check them for verification.
+![Orders](orders_with_month.csv)
+![Spending](coustomers_total_spending.csv)
 ## How to run
 1. Copy the SQL code from `artiset_task.sql`
 2. Run it in any MySQL environment or online compiler
